@@ -41,17 +41,17 @@ gcc -o client client.c
 
 Running
 
-    Start the server:
+Start the server:
 
-    bash
+bash
 
-./server
+    ./server
 
 Run the admin client:
 
 bash
 
-./admin
+    ./admin
 
 Run the user client:
 
