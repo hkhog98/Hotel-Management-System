@@ -33,9 +33,9 @@ Compilation
 
 To compile the code, use the following commands:
 
-gcc -o server server.c -lpthread
-gcc -o admin admin.c
-gcc -o client client.c
+    gcc -o server server.c -lpthread
+    gcc -o admin admin.c
+    gcc -o client client.c
 
 Running
 
