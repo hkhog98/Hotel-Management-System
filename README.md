@@ -33,8 +33,6 @@ Compilation
 
 To compile the code, use the following commands:
 
-bash
-
 gcc -o server server.c -lpthread
 gcc -o admin admin.c
 gcc -o client client.c
@@ -43,21 +41,18 @@ Running
 
 Start the server:
 
-bash
-
     ./server
+    
 
 Run the admin client:
 
-bash
-
     ./admin
+    
 
 Run the user client:
 
-bash
-
     ./client
+    
 
 Usage
 
